@@ -15,7 +15,7 @@ Welcome! This repository contains five projects completed as part of the **Data 
 ## 📁 Projects Overview
 
 ### 1. 🧩 Word Anagrams  
-![Anagrams](https://media.giphy.com/media/h4OGaVJJvLqSI/giphy.gif)  
+
 - **Objective:** Process a list of English words to identify anagrams based on word length.  
 - **Skills:** Lists, dictionaries, data cleaning, sorting, custom functions.  
 - **Libraries:** Pure Python  
@@ -23,7 +23,7 @@ Welcome! This repository contains five projects completed as part of the **Data 
 ---
 
 ### 2. 🌤️ Weather Data Analysis  
-![Weather](https://media.giphy.com/media/xUOwGch4UQZP0B1F1u/giphy.gif)  
+ 
 - **Objective:** Analyze historical weather patterns in Minneapolis and San Diego from 1940 to 2014.  
 - **Tasks:** Extract TMAX and TMIN values, calculate annual averages, and visualize temperature trends.  
 - **Libraries:** NumPy, Matplotlib  
@@ -31,7 +31,7 @@ Welcome! This repository contains five projects completed as part of the **Data 
 ---
 
 ### 3. 👶 Baby Names Analysis  
-![Baby Names](https://media.giphy.com/media/3orieVPQ7f9aFWL02Y/giphy.gif)  
+
 - **Objective:** Analyze U.S. baby name trends (1880–2014) to identify and visualize top unisex names.  
 - **Tasks:** Grouping, ratio computation, data filtering, time series plotting.  
 - **Libraries:** pandas, Matplotlib  
@@ -39,7 +39,7 @@ Welcome! This repository contains five projects completed as part of the **Data 
 ---
 
 ### 4. 📊 K-Means Clustering  
-![Clustering](https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif)  
+
 - **Objective:** Perform unsupervised learning using K-means on the Iris dataset.  
 - **Tasks:** Preprocessing, model fitting, and cluster visualization.  
 - **Libraries:** scikit-learn, pandas, seaborn  
@@ -47,7 +47,7 @@ Welcome! This repository contains five projects completed as part of the **Data 
 ---
 
 ### 5. 🧬 Breast Cancer Classification with kNN  
-![Cancer Detection](https://media.giphy.com/media/krP2NRkLqnKEg/giphy.gif)  
+ 
 - **Objective:** Train and optimize a k-Nearest Neighbors model on breast cancer data.  
 - **Tasks:** Grid search, confusion matrix, accuracy evaluation, visualization.  
 - **Libraries:** scikit-learn, matplotlib, pandas  
@@ -69,7 +69,6 @@ Welcome! This repository contains five projects completed as part of the **Data 
 Ph.D. Student – Computer Science  
 University of Texas at San Antonio (UTSA)
 
-![Thank You](https://media.giphy.com/media/l0MYwONBGDS7aPGOk/giphy.gif)
 
 ---
 
