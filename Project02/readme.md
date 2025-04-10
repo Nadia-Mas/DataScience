@@ -2,7 +2,7 @@
 
 Welcome to the Weather Data Analysis project! This project is part of the **CS 5163: Data Science** course at UTSA, Spring 2025, under the instruction of **Dr. Mohammad Imran Chowdhury**. The goal is to explore historical weather trends using Python, NumPy, and Matplotlib.
 
-![Weather Banner](https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=1050&q=80)
+
 
 ---
 
